@@ -1,4 +1,3 @@
-import 'package:solana/dto.dart';
 import 'package:solana/solana.dart';
 import 'package:solana/src/programs/cove_program/instruction.dart';
 
